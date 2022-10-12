@@ -1,13 +1,17 @@
-# Example Application For '[flutter_map](https://github.com/fleaflet/flutter_map)'
+# everythink_about_flutter_map
 
-Showcases functionality of the library in a neat and useful format that can be used for further API references, and just to see if you want this library for your app.
+A new Flutter project.
 
-See the [documentation website](https://docs.fleaflet.dev/) for more information about flutter_map.
+## Getting Started
 
-## How To Run
+This project is a starting point for a Flutter application.
 
-To run this example application, clone this repository/directory onto your local machine. Open your emulator or connect your device, then use your IDE as you normally would, or execute `flutter clean` & `flutter run` from a terminal. Note that there are no pre-built versions available.
+A few resources to get you started if this is your first Flutter project:
 
-## What's Inside
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Each page inside the example application usually demonstrates a specific feature. Pages can be accessed through the draw in app, and have self-explanatory names both in app and for each source code file - of which there is (mostly) one per page.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+
